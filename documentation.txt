@@ -62,7 +62,7 @@ PAYLOAD:
     "server_id": SERVER_ID <string>
 }
 
-RESONSE:
+RESPONSE:
 {
 	"img": "https://files.rustmaps.com/img/219/a046152d-7b9f-4051-b5a5-5a33be0c2ac0/Thumbnail.png"
 }
