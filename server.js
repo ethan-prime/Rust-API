@@ -1,3 +1,7 @@
+/*
+A VERY SIMPLE RUST (THE GAME) API
+USED TO RETRIEVE INFORMATION ABOUT PLAYERS AND SERVERS
+*/
 const express = require('express');
 const axios = require('axios');
 const cheerio = require('cheerio');
