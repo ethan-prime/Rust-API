@@ -1,3 +1,6 @@
+!!! A SERVER ID CAN BE OBTAINED BY FINDING THE NUMBERS AT THE END OF A BATTLEMETRICS LINK. EX https://www.battlemetrics.com/servers/rust/11833397 -- ID IS 11833397 !!!
+------
+
 RECEIVE A LIST OF ALL ONLINE PLAYERS ON A CERTAIN SERVER
 
 GET https://prime-rust-api.herokuapp.com/online
